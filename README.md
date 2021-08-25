@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Comandos validados Vanne, Martin
+
+### `npm install react-scripts --save`
+### `npm start`
+### `npm install node-sass`
+### `npm audit fix`
+### `npm audit fix --force`
+### `clear`
+### `npm start`
+### `clear`
+
 ## Available Scripts
 
 In the project directory, you can run:
